@@ -61,3 +61,5 @@
 2026-04-13T16:06:51.939+05:30  INFO 2260 --- [ibm-doctor-service] [http-nio-9003-exec-5] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 695 ms
 2026-04-13T16:09:34.317+05:30  INFO 2260 --- [ibm-doctor-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2026-04-13T16:14:34.327+05:30  INFO 2260 --- [ibm-doctor-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-04-13T16:19:34.335+05:30  INFO 2260 --- [ibm-doctor-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-04-13T16:24:34.351+05:30  INFO 2260 --- [ibm-doctor-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration

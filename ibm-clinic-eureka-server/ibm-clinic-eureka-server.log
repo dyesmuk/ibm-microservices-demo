@@ -88,3 +88,12 @@
 2026-04-13T16:14:05.205+05:30  INFO 12044 --- [ibm-clinic-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 10
 2026-04-13T16:14:05.547+05:30  INFO 12044 --- [ibm-clinic-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
 2026-04-13T16:15:05.551+05:30  INFO 12044 --- [ibm-clinic-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2026-04-13T16:16:05.556+05:30  INFO 12044 --- [ibm-clinic-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2026-04-13T16:17:05.567+05:30  INFO 12044 --- [ibm-clinic-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 11ms
+2026-04-13T16:18:05.568+05:30  INFO 12044 --- [ibm-clinic-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2026-04-13T16:19:05.569+05:30  INFO 12044 --- [ibm-clinic-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2026-04-13T16:20:05.580+05:30  INFO 12044 --- [ibm-clinic-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 11ms
+2026-04-13T16:21:05.587+05:30  INFO 12044 --- [ibm-clinic-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 7ms
+2026-04-13T16:22:05.600+05:30  INFO 12044 --- [ibm-clinic-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 13ms
+2026-04-13T16:23:05.603+05:30  INFO 12044 --- [ibm-clinic-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2026-04-13T16:24:05.615+05:30  INFO 12044 --- [ibm-clinic-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 11ms

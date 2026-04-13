@@ -69,3 +69,5 @@
 2026-04-13T16:07:19.601+05:30  INFO 10076 --- [ibm-appointment-service] [http-nio-9002-exec-4] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 548 ms
 2026-04-13T16:09:18.176+05:30  INFO 10076 --- [ibm-appointment-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2026-04-13T16:14:18.181+05:30  INFO 10076 --- [ibm-appointment-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-04-13T16:19:18.193+05:30  INFO 10076 --- [ibm-appointment-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-04-13T16:24:18.209+05:30  INFO 10076 --- [ibm-appointment-service] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration

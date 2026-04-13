@@ -372,3 +372,5 @@ com.netflix.discovery.shared.transport.TransportException: Cannot execute reques
 2026-04-13T16:03:48.232+05:30  INFO 19156 --- [ibm-clinic-api-gateway] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2026-04-13T16:08:48.247+05:30  INFO 19156 --- [ibm-clinic-api-gateway] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2026-04-13T16:13:48.255+05:30  INFO 19156 --- [ibm-clinic-api-gateway] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-04-13T16:18:48.261+05:30  INFO 19156 --- [ibm-clinic-api-gateway] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2026-04-13T16:23:48.270+05:30  INFO 19156 --- [ibm-clinic-api-gateway] [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
